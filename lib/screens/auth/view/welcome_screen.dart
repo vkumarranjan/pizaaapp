@@ -13,7 +13,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
   Widget build(BuildContext context) {
     return  Scaffold(
       body: Center(
-        child: Text('vinay'),
+        child: Text('Pizza'),
       ),
     );
   }
